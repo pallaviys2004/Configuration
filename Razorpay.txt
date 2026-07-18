@@ -1,0 +1,4 @@
+# Razorpay Configuration
+razorpay.key.id=rzp_test_xxxxxxxxxxxxx
+razorpay.key.secret=xxxxxxxxxxxxxxxx
+server.port=8080
